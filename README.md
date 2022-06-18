@@ -2,7 +2,7 @@
 Modeling, cleaning, initializing and analyzing data to extract insights about company sales and growth
 , influential and declining markets using Workbench, Power Pi,ETL
 
-[](pw.jpg)
+![AS](https://github.com/abduallheid/DATA_ANALYSYS-sales_insight-/edit/main/pw.png)
 
 ### Data Analysis Using SQL
 
