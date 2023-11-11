@@ -43,7 +43,7 @@ Modeling, cleaning, initializing and analyzing data to extract insights about co
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020
 and transactions.market_code="Mark001";`
 
-
+![](https://github.com/abduallheid/DATA_ANALYSYS-sales_insight-/blob/main/sain.png)
 
 DATA soruce : ATLIQ HARD WARE c.
 
